@@ -10,6 +10,14 @@
       }
     },
     {
+      "name": {"en": "SC:R Enhanced", "ko": "SC:R Enhanced"},
+      "repository": "fogofwarlabs/sc4j-scr-enhanced",
+      "description": {
+        "en": "SC:R mod with convenience and extension features. Requires StarCraft: Remastered.",
+        "ko": "편의 기능과 확장 기능을 더한 SC:R 모드. 스타크래프트: 리마스터 설치 필요."
+      }
+    },
+    {
       "name": {"en": "SC:R Crossover", "ko": "SC:R Crossover"},
       "repository": "fogofwarlabs/sc4j-scr-crossover",
       "description": {
